@@ -51,6 +51,9 @@
   justify-content: space-between;
   align-items: stretch;
 }
+a{
+  color: var(--color-neutral-700);
+}
 
 .nav-row {
   justify-content: space-between;
